@@ -1,0 +1,19 @@
+{
+  "name": "Reset Health",
+  "short_name": "Reset",
+  "description": "Your personal health transformation tracker",
+  "theme_color": "#070b14",
+  "background_color": "#070b14",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
