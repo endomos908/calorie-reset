@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#070b14" stroke="#38bdf8" stroke-width="3"/>
+  
+  <!-- Heart symbol -->
+  <path d="M100 140 L70 110 Q60 100 60 85 Q60 70 70 60 Q80 50 95 50 Q100 50 100 55 Q100 50 105 50 Q120 50 130 60 Q140 70 140 85 Q140 100 130 110 Z" 
+        fill="#38bdf8" 
+        stroke="#4ade80" 
+        stroke-width="2"/>
+  
+  <!-- Pulse line -->
+  <path d="M30 100 L50 100 L60 85 L70 115 L80 100 L170 100" 
+        fill="none" 
+        stroke="#4ade80" 
+        stroke-width="3" 
+        stroke-linecap="round"/>
+  
+  <!-- Letter R -->
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#38bdf8" text-anchor="middle">R</text>
+</svg>
